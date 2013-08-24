@@ -34,5 +34,5 @@ Kóðin er ekki vara heldur hugmynd.
 Þú mátt leika þér að þessu með mér en þá undir þinni eigin ábyrgð.
 
 WARNING:  The code is only displayed for author learning purposes only.
-The code is not a product; it is an idea. 
+The code is not a product; it is an a idea. 
 You can play with this idea with me but no warranty is provided for any pratical use of it. You are responsible.
