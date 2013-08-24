@@ -29,7 +29,7 @@ Svo er það breytilega lykilorðið sem myndi þá líka geimast í gagnagrunni
 
 Kóðinn fyrir Sha512 "algorithmanum" sem er notaður hér er tekin að láni hjá Jeff Mott og síðan fyrir leyfinu er "code.google.com/p/crypto-js/wiki/License".
 
-VIÐVÖRUN: Kóðin er aðeins byrtur af höfundi, fyrir höfundin sjálan til að læra af og vonandi geta aðrir líka lært og notið góðs af.
+VIÐVÖRUN: Kóðin er aðeins byrtur af höfundi fyrir höfundin sjálan til að læra af og vonandi geta aðrir líka lært og notið góðs af.
 Kóðin er ekki vara heldur hugmynd.
 Þú mátt leika þér að þessu með mér en þá undir þinni eigin ábyrgð.
 
