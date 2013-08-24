@@ -22,8 +22,12 @@ Svo er það breytilega lykilorðið sem myndi þá líka geimast í gagnagrunni
 
 Ég myndi því skrifa niður "pass" svo númerin tvö sem lyggja lóðrétt neðst hægramegin. Það ætti að stemma saman.
 
-Kóðinn fyrir Sha512 "algorithmanum" sem er notaður hér er tekin að láni hjá Jeff Mott og síðan fyrir leyfinu er "code.google.com/p/crypto-js/wiki/License".
+Ég hafði saltið til gamans en líklega geirir það lítið annað en auka "if statement" fyrir mannin á milli.
+Ég ætla þó ekki að taka saltið í burtu og er að spá í að gera það meira "dínamískt"; þ.e.a.s fleirri myndir og svo
+"encrypta" þetta fyrir sendingu og decrypta þegar saltið er komið á áfangastaðin með "dínamísku" númerunum tveimum.
 
+
+Kóðinn fyrir Sha512 "algorithmanum" sem er notaður hér er tekin að láni hjá Jeff Mott og síðan fyrir leyfinu er "code.google.com/p/crypto-js/wiki/License".
 
 VIÐVÖRUN: Kóðin er aðeins byrtur af höfundi, fyrir höfundin sjálan til að læra af og vonandi geta aðrir líka lært og notið góðs af.
 Kóðin er ekki vara heldur hugmynd.
