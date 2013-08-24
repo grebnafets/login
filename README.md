@@ -8,7 +8,7 @@ My hope is to get feedback from more experienced programmers; learn and get from
 
 Þetta er í þróun hjá mér, reyndar er þetta hálfsárs gamall kóði sem ég er að dusta rikið af.
 
-Hugmyndin á bak við þetta kerfi er eftirfarandi.
+Hugmyndin á bak við þetta kerfi er eftirfarandi:
 
 "Clientin" ætlar að skrá sig inn og þá byrtist honum rammi með mismunandi tölustöfum.
 
