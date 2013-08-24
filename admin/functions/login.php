@@ -66,7 +66,7 @@ class Login {
     private $sercrets        = null;
     private $staticpassword  = '';
     private $dynamicpassword = '';
-    public  $password        = '';
+    public  $password        = '';//node that this is supposed to be private.
     private $make            = null;
     private $init            = null;
     function __construct($static, $dynamic) {
