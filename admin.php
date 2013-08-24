@@ -58,7 +58,7 @@
             echo '<input id="login-salt" type="hidden" value="' . $_SESSION['login']->salt . '" >';
             echo $_SESSION['login']->table();
             echo $_SESSION['login']->form($txt[$lang]['password'], $txt[$lang]['login me in']);
-            echo '<p>' . $_SESSION['login']->password . '</p>';
+            echo '<p>' . $_SESSION['login']->password . '</p>';//Note that this is not supposed to be possible; I am using public for debugging purposes.
         ?>
         <?php 
         $time_end = microtime_float();
